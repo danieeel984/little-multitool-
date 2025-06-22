@@ -1,0 +1,50 @@
+import os as os
+from time import *
+os.system("color a")
+print("██████╗ ███████╗██████╗  █████╗  ██████╗████████╗███████╗██████╗ ")
+sleep(0.3)
+print("██╔══██╗██╔════╝██╔══██╗██╔══██╗██╔════╝╚══██╔══╝██╔════╝██╔══██╗ ")
+sleep(0.3)
+print("██████╔╝█████╗  ██║  ██║███████║██║        ██║   █████╗  ██║  ██║ ")
+sleep(0.3)
+print("██╔══██╗██╔══╝  ██║  ██║██╔══██║██║        ██║   ██╔══╝  ██║  ██║")
+sleep(0.3)
+print("██║  ██║███████╗██████╔╝██║  ██║╚██████╗   ██║   ███████╗██████╔╝")
+sleep(0.5)
+print("╚═╝  ╚═╝╚══════╝╚═════╝ ╚═╝  ╚═╝ ╚═════╝   ╚═╝   ╚══════╝╚═════╝ ")
+sleep(0.4)
+print("1) netstat | show active conns")
+sleep(0.4)
+print("2) chrome | open the web")
+sleep(0.4)
+print("3) ddos | try to crash a server")
+sleep(0.4)
+print("4) brute force self | perform a dict attack")
+sleep(0.4)
+print("5) open msys2 ucrt64")
+sleep(0.4)
+print("6) exit")
+sleep(0.5)
+print("|")
+sleep(0.3)
+print("|")
+sleep(0.3)
+print("|")
+sleep(0.3)
+print("|")
+sleep(0.3)
+x = input("|-===>")
+if x == "1":
+    os.system("netstat")
+    os.system("pause")
+elif x == '2':
+    os.system(r"google.bat")
+elif x == '3':
+    os.system(r"DDoS-Tools.bat")
+elif x == '4':
+    os.system(r"main.bat")
+elif x == '5':
+    os.system(r"F:\msys\1.0\msys.bat")
+elif x == "6":
+    exit()
+
