@@ -10,3 +10,4 @@
 <br>
 <h3>windows:</h3>
 <code>git clone https://github.com/danieeel984/little-multitool-</code>
+<img src="preview.png" alt="preview">
