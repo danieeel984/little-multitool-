@@ -10,5 +10,8 @@
 <h3>windows:</h3>
 <code>git clone https://github.com/danieeel984/little-multitool-</code>
 <img src="preview.png" alt="preview">
+<br>
+<br>
+<h2>im still making this so give me some ideas if you want more tools and stuff! :)</h2>
                                                        
 
